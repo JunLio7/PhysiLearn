@@ -9,7 +9,7 @@ const Header = () => {
   return <header className="bg-white shadow-md">
       <div className="container mx-auto py-4 px-6 flex items-center justify-between">
         <Link to="/" className="flex items-center">
-          <img src="/Interactive_Physics_Formula_Visualizer_and_Learning_Game_System.png" alt="PhysiLearn Logo" className="h-16" />
+          <img src="/logo.png" alt="PhysiLearn Logo" className="h-16" />
         </Link>
         <div className="flex space-x-4">
           <Link to="/learning" className="px-4 py-2 rounded-md bg-blue-600 text-white hover:bg-blue-700 transition-colors">
